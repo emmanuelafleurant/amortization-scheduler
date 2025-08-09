@@ -14,5 +14,4 @@ Sample Output
       5           21.41            0.11           19.89           20.00                1.52
       6            1.52            0.01            1.52            1.53                0.00
 
-
-      This is assignment from past 
+ This is assignment from a past class ( Programming II)
