@@ -1,6 +1,6 @@
 //Title:        amortization-scheduler.cpp
 //Author:       Emmanuela Fleurant
-//Description:  This program will accepts user's prince, interest 
+//Description:  This program will accepts user's principlee, interest 
 //              and payment on a loan and return a formatted tabular 
 //              schedule for the loan
 
